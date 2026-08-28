@@ -1,0 +1,8 @@
+# No Python package dependencies required.
+#
+# The only external requirement is Ghostscript, which must be installed
+# separately (it is a system binary, not a Python package):
+#
+#   macOS:   brew install ghostscript
+#   Ubuntu:  sudo apt install ghostscript
+#   Windows: https://ghostscript.com/releases/gsdnld.html
