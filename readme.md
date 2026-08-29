@@ -1,4 +1,4 @@
-# PDF Compressor
+# Shrink PDF Compressor
 
 A fast, zero-dependency CLI tool to compress PDF files using [Ghostscript](https://ghostscript.com).
 
